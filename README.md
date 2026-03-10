@@ -32,6 +32,11 @@ Given today's satellite snapshot of a location — vegetation, terrain, temperat
 
 > High recall (82%) means **4 out of 5 real fire pixels are correctly detected**. Accuracy alone is misleading because 98.8% of pixels are no-fire.
 
+### WEB page 
+
+<img width="1537" height="1000" alt="image" src="https://github.com/user-attachments/assets/c33a1aef-7409-46f1-8e33-04b113680967" />
+
+
 ### Sample Predictions
 
 ![Sample Predictions](results/sample_predictions.png)
